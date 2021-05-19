@@ -1,0 +1,33 @@
+    1  pwd
+    2  mkdir Day-1
+    3  cd Day-1
+    4  pwd
+    5  cd..
+    6  cd ..
+    7  ls
+    8  cd Day-1
+    9  clear
+   10  mkdir day-2
+   11  cd day-2
+   12  ls
+   13  ls
+   14  pwd
+   15  nano vv.txt
+   16  git init
+   17  pwd
+   18  ls
+   19  git config --global user.name "chandana-a-30"
+   20  git config --global user.email "chandanaravuri30@gmail.com"
+   21  touch demo.csv
+   22  git status
+   23  git add --a
+   24  git status
+   25  git add mydata.txt
+   26  git commit -m "Files are added"
+   27  git remote add https://github.com/Chandana-a-30/Django--Batch.git
+   28  git remote add apssdc https://github.com/Chandana-a-30/Django--Batch.git
+   29  git remote -v
+   30  git push -u apssdc master
+   31  ls
+   32  cd day-2
+   33  history >>myyyhist.txt
